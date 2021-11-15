@@ -1,9 +1,8 @@
-def do_something():
-    print("do something")
-
 def doanotherthing():
     print("do another thing")
 
+def do_something():
+    print("do something")
 
 
 def main():
