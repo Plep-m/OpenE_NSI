@@ -1,0 +1,10 @@
+git branch "voir la branche"
+git pull "
+git checkout main "vérifier"
+git checkout -b Sorya "crée une nouvelle branche"
+git fetch origin "vérifier que la branche est à jour"
+git merge origin/main Sorya "mettre à jour si t'es pas à jour"
+
+quand ta fini de travailler : git add * 
+				git commit -m "expliquer les modifications"
+				git push
