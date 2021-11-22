@@ -1,6 +1,21 @@
 # OpenE_NSI
 E-Commerce project by NSI Students
 
+<!-- TABLE OF CONTENTS -->
+<h2 id="table-of-contents"> :book: Sommaire</h2>
+
+<details open="open">
+  <summary>Présentation</summary>
+  <ol>
+    <li><a href="#contributors"> ➤ Equipe</a></li>
+    <li><a href="#roadmap"> ➤ Roadmap</a></li>
+    <li><a href="#references"> ➤ References</a></li>
+    <li><a href="#enjeux"> ➤ Enjeux</a></li>
+
+       
+  </ol>
+</details>
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- Présentation de l'équipe -->
@@ -39,7 +54,7 @@ E-Commerce project by NSI Students
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)<br>
 
-<h2 id="preprocessing"> :hammer: Enjeux</h2>
+<h2 id="enjeux"> :hammer: Enjeux</h2>
 Avoir une base de donné assez conséquente afin de permettre à l'utilisateur de faire des courses de la vie de tout les jours 🛒
 
 
