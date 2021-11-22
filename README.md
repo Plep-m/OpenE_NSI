@@ -20,3 +20,19 @@ E-Commerce project by NSI Students
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/Liciana">@Liciana</a> <br>
   
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)<br>
+ <!-- Objectifs -->
+ <h2 id="roadmap"> :dart: Objectifs</h2><br>
+ 
+ Nous souhaitons développer un drive d'un Super-marché (eg. Carrefour, Intermarché) nous l'avons baptiser :star: P'tit tout ⭐<br>
+ 
+ <h2 id="references"> :books: Références</h2><br>
+ Langages: <br>
+  💻: Python 3 pour le back-end <br>
+  📃: HTML5, CSS3 pour le front-end
+  📂: SQLite3 pour la base de donné
+ 
+ 
+ 
+ 
+                                               
+ 
