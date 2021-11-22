@@ -28,11 +28,14 @@ E-Commerce project by NSI Students
  <h2 id="references"> :books: Références</h2><br>
  Langages: <br>
   💻: Python 3 pour le back-end <br>
-  📃: HTML5, CSS3 pour le front-end
-  📂: SQLite3 pour la base de donné
- 
- 
- 
- 
+  📃: HTML5, CSS3 pour le front-end<br>
+  📂: SQLite3 pour la base de donné<br>
+ pour les ressources nous avons mis en place un dossier "Ressources" dans lequel nous mettrons tous ce dont nous avons besoin<br>
+ (eg. documentation flask, sqlite, html etc...)<br>
+ <br>
+ <p align="center"> 
+  <img src="Ressources/Signal.gif" alt="Sample signal" width="70%" height="70%">
+</p>
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)<br>
                                                
  
