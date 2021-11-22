@@ -46,7 +46,7 @@ E-Commerce project by NSI Students
   💻: Python 3 pour le back-end <br>
   📃: HTML5, CSS3 pour le front-end<br>
   📂: SQLite3 pour la base de donné<br>
- pour les ressources nous avons mis en place un dossier "Ressources" dans lequel nous mettrons tous ce dont nous avons besoin<br>
+ pour les ressources nous avons mis en place un dossier "Ressources" dans lequel nous mettrons tout ce dont nous avons besoin<br>
  (eg. documentation flask, sqlite, html etc...)<br>
  <br>
  <p align="center"> 
@@ -56,7 +56,7 @@ E-Commerce project by NSI Students
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)<br>
 
 <h2 id="enjeux"> :hammer: Enjeux</h2>
-Avoir une base de donné assez conséquente afin de permettre à l'utilisateur de faire des courses de la vie de tout les jours 🛒
+Avoir une base de donné assez conséquente afin de permettre à l'utilisateur de faire des courses de la vie de tous les jours 🛒
 
 
                                                
