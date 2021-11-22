@@ -9,7 +9,7 @@ E-Commerce project by NSI Students
   <summary>Présentation</summary>
   <ol>
     <li><a href="#contributors"> ➤ Equipe</a></li>
-    <li><a href="#roadmap"> ➤ Roadmap</a></li>
+    <li><a href="#roadmap"> ➤ Objectifs</a></li>
     <li><a href="#references"> ➤ References</a></li>
     <li><a href="#enjeux"> ➤ Enjeux</a></li>
 
