@@ -39,7 +39,7 @@ E-Commerce project by NSI Students
  <!-- Objectifs -->
  <h2 id="roadmap"> :dart: Objectifs</h2><br>
  
- Nous souhaitons développer un drive d'un Super-marché (eg. Carrefour, Intermarché) nous l'avons baptiser :star: P'tit tout ⭐<br>
+ Nous souhaitons développer un drive d'un Super-marché (eg. Carrefour, Intermarché) nous l'avons baptisé :star: P'tit tout ⭐<br>
  
  <h2 id="references"> :books: Références</h2><br>
  Langages: <br>
