@@ -36,6 +36,7 @@ E-Commerce project by NSI Students
  <p align="center"> 
   <img src="Ressources/Signal.gif" alt="Sample signal" width="70%" height="70%">
 </p>
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)<br>
                                                
  
