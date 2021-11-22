@@ -29,7 +29,7 @@ E-Commerce project by NSI Students
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>le mail de Maxime ? </a> <br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/warscraft360">@maxime(pour l'insant c moi)</a> <br>
    :woman: <b>Soriano Sorya</b> <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>mail de Soria ?</a> <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>sorya.soria@outlook.fr</a> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/ginsenngi">@ginsenng</a> <br>
     :woman: <b>Rigal Liciana</b> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>mail de Liciana</a> <br>
