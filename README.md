@@ -56,7 +56,7 @@ E-Commerce project by NSI Students
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)<br>
 
 <h2 id="enjeux"> :hammer: Enjeux</h2>
-Avoir une base de donné assez conséquente afin de permettre à l'utilisateur de faire des courses de la vie de tous les jours 🛒
+Avoir une base de données assez conséquente afin de permettre à l'utilisateur de faire des courses de la vie de tous les jours 🛒
 
 
                                                
