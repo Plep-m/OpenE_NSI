@@ -38,5 +38,10 @@ E-Commerce project by NSI Students
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)<br>
+
+<h2 id="preprocessing"> :hammer: Enjeux</h2>
+Avoir une base de donné assez conséquente afin de permettre à l'utilisateur de faire des courses de la vie de tout les jours 🛒
+
+
                                                
- 
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)<br>
