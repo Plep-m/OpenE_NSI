@@ -32,7 +32,7 @@ E-Commerce project by NSI Students
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>sorya.soria@outlook.fr</a> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/ginsenngi">@ginsenng</a> <br>
     :woman: <b>Rigal Liciana</b> <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>mail de Liciana</a> <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>liciana.rigal34@gmail.com</a> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/Liciana">@Liciana</a> <br>
   
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)<br>
