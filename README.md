@@ -26,8 +26,8 @@ E-Commerce project by NSI Students
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>menut34@gmail.com</a> <br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/warscraft360">@warscraft360</a> <br>
   :boy: <b>Meharg Maxime</b> <br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>le mail de Maxime ? </a> <br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/warscraft360">@maxime(pour l'insant c moi)</a> <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>maxime.meharg@gmail.com</a> <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/Synth3t1c">@Synth3t1c</a> <br>
    :woman: <b>Soriano Sorya</b> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>sorya.soria@outlook.fr</a> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/ginsenngi">@ginsenng</a> <br>
