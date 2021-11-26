@@ -63,7 +63,7 @@ Avoir une base de données assez conséquente afin de permettre à l'utilisateur
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)<br>
  
  <h2 id="avancement"> 📋 Avancement</h2><br>
- <table><tr><th>colone 1</th><th>colone 2</th><th>colone 3</th></tr>
+ <table align="center"><tr><th>colone 1</th><th>colone 2</th><th>colone 3</th></tr>
   <tr><td>un peu de texte</td><td>un peu de texte</td><td>un peu de texte</td></tr>
 </table>
  
