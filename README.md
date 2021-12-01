@@ -62,8 +62,12 @@ Avoir une base de données assez conséquente afin de permettre à l'utilisateur
                                                
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)<br>
  
- <h2 id="avancement"> 📋 Avancement</h2><br>
- <table align="center"><tr><th>colone 1</th><th>colone 2</th><th>colone 3</th></tr>
-  <tr><td>un peu de texte</td><td>un peu de texte</td><td>un peu de texte</td></tr>
+ <h2 id="avancement"> 📋 Carnet de bord du projet</h2><br>
+ <table align="center"><tr><th>Dates</th><th>Prénoms</th><th>Étapes/Tâches</th><th>État d’avancement</th><th>Remarques</th></tr>
+  <tr><td>30/11/21</td><td>Maxime</td><td>Base de données</td><td>Commencement</td><td>.</td></tr>
+  <tr><td>30/11/21</td><td>Paul</td><td>CSS et Javascript (fonctionnalités du site)</td><td>En cours</td><td>.</td></tr>
+  <tr><td>30/11/21</td><td>Sorya</td><td>Site HTML,compte,index </td><td>Commencement</td><td>.</td></tr>
+  <tr><td>30/11/21</td><td>Liciana</td><td>Trouver des images pour les produits</td><td>En cours</td><td>Images non transparentes, a eu besoin de tout retrouver</td></tr>
+  
 </table>
  
