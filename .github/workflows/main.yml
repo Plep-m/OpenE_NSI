@@ -22,17 +22,13 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: appleboy/ssh-action@v0.1.4
-      - with: 
-          host: 88.120.175.159
-          username: Paul
-          key: ${{ secret.ssh_action }}
-          port: 22
-          script: |
-            cd Documents
-            cd OpenE_NSI
-            git pull
-            
-              
-          
-          
+      uses: appleboy/ssh-action@v0.1.4
+      with: 
+        host: 88.120.175.159
+        username: Paul
+        key: ${{ secret.ssh_action }}
+        port: 22
+        script: |
+          cd Documents
+          cd OpenE_NSI
+          git pull
