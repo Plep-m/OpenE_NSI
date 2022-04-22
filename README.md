@@ -64,10 +64,10 @@ Avoir une base de données assez conséquente afin de permettre à l'utilisateur
  
  <h2 id="avancement"> 📋 Carnet de bord du projet</h2><br>
  <table align="center"><tr><th>Dates</th><th>Prénoms</th><th>Étapes/Tâches</th><th>État d’avancement</th><th>Remarques</th></tr>
-  <tr><td>30/11/21</td><td>Maxime</td><td>Base de données</td><td>Commencement</td><td>.</td></tr>
-  <tr><td>30/11/21</td><td>Paul</td><td>CSS et Javascript (fonctionnalités du site)</td><td>En cours</td><td>.</td></tr>
-  <tr><td>30/11/21</td><td>Sorya</td><td>Site HTML,compte,index </td><td>Commencement</td><td>.</td></tr>
-  <tr><td>30/11/21</td><td>Liciana</td><td>Trouver des images pour les produits</td><td>En cours</td><td>Images non transparentes, a eu besoin de tout retrouver</td></tr>
+  <tr><td>30/11/21</td><td>Maxime</td><td>CSS</td><td>En cours</td><td>.</td></tr>
+  <tr><td>30/11/21</td><td>Paul</td><td>Deveop)</td><td>En cours</td><td>.</td></tr>
+  <tr><td>30/11/21</td><td>Sorya</td><td>Site HTML,compte,index, boite </td><td>En amélioration</td><td>Design en html des pages</td></tr>
+  <tr><td>30/11/21</td><td>Liciana</td><td>Base de données , Prix </td><td>En cours</td><td>Ajouter des prix</td></tr>
   
 </table>
  
