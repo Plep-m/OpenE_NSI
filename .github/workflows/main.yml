@@ -25,7 +25,7 @@ jobs:
         host: 88.120.175.159
         username: Paul
         key: ${{ secrets.SSH_ACTION }}
-        port: 22
+        port: 2222
         script: |
           cd Documents
           cd OpenE_NSI
