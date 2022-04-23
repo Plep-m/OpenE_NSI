@@ -27,6 +27,5 @@ jobs:
         password: ${{ secrets.PASSWORD }}
         port: 2222
         script: |
-          cd Documents
-          cd OpenE_NSI
-          git pull
+          cd /home/paul/
+          whoami
