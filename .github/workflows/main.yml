@@ -24,7 +24,7 @@ jobs:
       with: 
         host: 88.120.175.159
         username: Paul
-        key: ${{ secrets.SSH_ACTION }}
+        password: ${{ secrets.PASSWORD }}
         port: 2222
         script: |
           cd Documents
