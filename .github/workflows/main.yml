@@ -28,4 +28,4 @@ jobs:
         port: ${{ secrets.PORT }}
         script: |
           cd /home/paul/
-          whoami
+          git clone https://github.com/Plep-m/OpenE_NSI.git
