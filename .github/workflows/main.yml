@@ -22,10 +22,10 @@ jobs:
     - name: Deploy 
       uses: appleboy/ssh-action@v0.1.4
       with: 
-        host: 88.120.175.159
-        username: Paul
+        host: ${{ secrets.HOST }}
+        username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
-        port: 2222
+        port: ${{ secrets.PORT }}
         script: |
           cd /home/paul/
           whoami
