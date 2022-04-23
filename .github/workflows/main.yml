@@ -27,5 +27,5 @@ jobs:
         password: ${{ secrets.PASSWORD }}
         port: ${{ secrets.PORT }}
         script: |
-          cd /home/paul/
-          git clone https://github.com/Plep-m/OpenE_NSI.git
+          cd /home/paul/OpenE_NSI/
+          git pull
