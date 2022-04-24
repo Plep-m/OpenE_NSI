@@ -68,6 +68,7 @@ Avoir une base de données assez conséquente afin de permettre à l'utilisateur
   <tr><td>30/11/21</td><td>Paul</td><td>DeveOps, auto-deployment</td><td>fini</td><td>.</td></tr>
   <tr><td>30/11/21</td><td>Sorya</td><td>Site HTML,compte,index, boite </td><td>En amélioration</td><td>Design en html des pages</td></tr>
   <tr><td>30/11/21</td><td>Liciana</td><td>Base de données , Prix </td><td>En cours</td><td>Ajouter des prix</td></tr>
+  <tr><td>24/04/22</td><td>Paul</td><td>login system</td><td>En cours</td><td></td></tr>
   
 </table>
  
