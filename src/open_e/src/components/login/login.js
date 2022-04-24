@@ -28,10 +28,10 @@ export default function Login({ setToken }) {
 
   return(
     <>
-    <div classNameName="login-wrapper">
+    <div className="login-wrapper">
     </div>
-    <div classNameName="container">
-    <div classNameName="screen">
+    <div className="container">
+    <div className="screen">
       <div className="screen__content">
         <form className="login">
           <div className="login__field">
