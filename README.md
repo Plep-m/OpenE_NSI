@@ -62,13 +62,14 @@ Avoir une base de données assez conséquente afin de permettre à l'utilisateur
                                                
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)<br>
  
- <h2 id="avancement"> 📋 Carnet de bord du projet</h2><br>
+ <h2 id="avancement"> 📋 Carnet de bord du projet (voir onglet projet pour plus de details)</h2><br>
  <table align="center"><tr><th>Dates</th><th>Prénoms</th><th>Étapes/Tâches</th><th>État d’avancement</th><th>Remarques</th></tr>
   <tr><td>30/11/21</td><td>Maxime</td><td>CSS</td><td>En cours</td><td>.</td></tr>
   <tr><td>30/11/21</td><td>Paul</td><td>DeveOps, auto-deployment</td><td>fini</td><td>.</td></tr>
   <tr><td>30/11/21</td><td>Sorya</td><td>Site HTML,compte,index, boite </td><td>En amélioration</td><td>Design en html des pages</td></tr>
   <tr><td>30/11/21</td><td>Liciana</td><td>Base de données , Prix </td><td>En cours</td><td>Ajouter des prix</td></tr>
-  <tr><td>24/04/22</td><td>Paul</td><td>login system</td><td>En cours</td><td></td></tr>
+  <tr><td>24/04/22</td><td>Paul</td><td>login system</td><td>fini</td><td></td></tr>
+  <tr><td>24/04/22</td><td>Paul</td><td>register system</td><td>en-cour</td><td></td></tr>
   
 </table>
  
