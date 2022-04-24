@@ -47,14 +47,6 @@ export default function Login({ setToken }) {
             <i className="button__icon fas fa-chevron-right"></i>
           </button>				
         </form>
-        <div className="social-login">
-          <h3>log in via</h3>
-          <div className="social-icons">
-            <a href="#" className="social-login__icon fab fa-instagram"></a>
-            <a href="#" className="social-login__icon fab fa-facebook"></a>
-            <a href="#" className="social-login__icon fab fa-twitter"></a>
-          </div>
-        </div>
       </div>
       <div className="screen__background">
         <span className="screen__background__shape screen__background__shape4"></span>
