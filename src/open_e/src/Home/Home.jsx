@@ -1,7 +1,7 @@
 import React from 'react';
 
-var fs = require('fs');
-const myHTML = fs.open('./home.html', 'r');
+
+const myHTML = '<div>Hello World</div>';
 
 export default function Home() {
   return(
