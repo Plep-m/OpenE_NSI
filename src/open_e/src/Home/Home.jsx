@@ -1,7 +1,7 @@
 import React from 'react';
-import { readFileSync } from 'fs';
 
-const myHTML = readFileSync('./home.html', 'utf-8');
+var fs = require('fs');
+const myHTML = fs.open('./home.html', 'r');
 
 export default function Home() {
   return(
