@@ -17,11 +17,11 @@ function App() {
       <>
       <Router>
         <Link to="/">Home</Link>
-        <Link to="/Dashboard">Dashbord</Link>
+        
 
         <Routes>
           <Route index element={<Home />} />
-          <Route path="Dashboard" element={<Dashboard />} />
+          
         </Routes>
       </Router>
     </>
